@@ -9,10 +9,14 @@ Why This Matters
 Unstructured data (text, PDFs, web content) makes up 80-90% of data, yet it’s unusable
 for analysis without costly manual processing. LLMs solve this by acting as "structured
 data compilers" – converting messy text into clean, queryable formats (entities, relations,
-graphs). This assignment tests your ability to:
+graphs). 
+
+This assignment tests your ability to:
 • Bridge theory and practice (real-world data ≠ textbook examples)
 • Handle LLM uncertainty (confidence loops, error resilience)
 • Build production-ready pipelines (not just one-off scripts)
+
+
 The provided DSPy codebase demonstrates exactly what modern data engineering
 teams need:
 1. Entity extraction → Turning text into typed objects (e.g., "pelletized frass" → Drug)
@@ -23,6 +27,9 @@ diagrams)
 
 
 
+-------
+
+
 
 The system processes 10 scientific URLs, extracts entities and relationships, and generates:
 
@@ -31,6 +38,8 @@ Scrape 10 URLs (provided below), process their text using the DSPy pipeline, and
 1. 10 Mermaid diagrams (one per URL) visualizing key relationships.
 2. A structured CSV with columns: link, tag, tag_type.
 3. A Colab notebook showing your full implementation
+
+--------
 
 
 ## Output Files
@@ -51,6 +60,10 @@ After running the notebook, you'll get:
 └── mermaid_10.md
 ```
 
+
+------
+
+
 ### Entities (tags.csv)
 ```csv
 entity_name,semantic_type
@@ -69,6 +82,9 @@ flowchart LR
     Clinical_Trial["Clinical Trial"] -->|evaluates| Tramadol["Tramadol"]
 ```
 
+------
+
+
 ## Processed URLs
 
 
@@ -84,7 +100,12 @@ flowchart LR
 "https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india ",
 
 
+-------
 
 
 
- Just upload to Google Colab, add your API key, and execute all cells.
+ Just upload dspy_assignment.ipynb to Google Colab, add your API key, and execute all cells. 
+
+ Or You can click on the Open in Colab button in dspy_assignment.ipynb to open it in ur Colab Notebook Env to run and test it.
+
+ Thanks have a great time. :)
