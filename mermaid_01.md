@@ -1,3 +1,4 @@
+```mermaid
 flowchart LR
  Sustainable_agriculture["Sustainable agriculture"] -->|is a type of| farming["farming"]
  Sustainable_agriculture["Sustainable agriculture"] -->|meets| food["food"]
@@ -49,3 +50,5 @@ flowchart LR
  carrying_capacity["carrying capacity"] -->|is related to| planetary_boundaries["planetary boundaries"]
  Sustainable_agriculture["Sustainable agriculture"] -->|addresses| carrying_capacity["carrying capacity"]
  Sustainable_agriculture["Sustainable agriculture"] -->|addresses| planetary_boundaries["planetary boundaries"]
+
+```
