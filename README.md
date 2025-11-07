@@ -3,6 +3,10 @@
 ## Structuring Unstructured Data with LLMs: DSPy Practical Assignment
 
 
+Drive Contents and Demo : https://drive.google.com/drive/folders/17iZWCeBDmmv3avIxdfcRCuDXbCUUF5Ez?usp=sharing
+
+Explained Video Walkthrough : https://drive.google.com/file/d/1ugxZzUsncdC2AP9CTWWbYYuiNZpYXj8d/view?usp=sharing
+
 Why This Matters
 
 
@@ -109,3 +113,4 @@ flowchart LR
  Or You can click on the Open in Colab button in dspy_assignment.ipynb to open it in ur Colab Notebook Env to run and test it.
 
  Thanks have a great time. :)
+
