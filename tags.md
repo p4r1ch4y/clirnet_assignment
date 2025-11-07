@@ -1,3 +1,6 @@
+# Tags CSV Export
+
+```csv
 link,tag,tag_type
 https://en.wikipedia.org/wiki/Sustainable_agriculture,Sustainable agriculture,Concept
 https://en.wikipedia.org/wiki/Sustainable_agriculture,farming,Activity
@@ -249,3 +252,4 @@ https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-sta
 https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,2022,Date
 https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,2023,Date
 https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,2000,Date
+```

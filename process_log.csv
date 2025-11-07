@@ -1,0 +1,11 @@
+url,index,scrape,entities,relations,mermaid_save
+https://en.wikipedia.org/wiki/Sustainable_agriculture,1,OK,OK (46),OK (48),OK
+https://www.nature.com/articles/d41586-025-03353-5,2,OK,OK (40),OK (24),OK
+https://www.sciencedirect.com/science/article/pii/S1043661820315152,3,ERROR 403 Client Error: Forbidden for url: https://www.sciencedirect.com/science/article/pii/S1043661820315152,,,OK (empty graph)
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10457221/,4,OK,OK (29),OK (33),OK
+https://www.fao.org/3/y4671e/y4671e06.htm,5,OK,OK (22),OK (20),OK
+https://www.medscape.com/viewarticle/time-reconsider-tramadol-chronic-pain-2025a1000ria,6,OK,OK (47),OK (41),OK
+https://www.sciencedirect.com/science/article/pii/S0378378220307088,7,ERROR 403 Client Error: Forbidden for url: https://www.sciencedirect.com/science/article/pii/S0378378220307088,,,OK (empty graph)
+https://www.frontiersin.org/news/2025/09/01/rectangle-telescope-finding-habitable-planets,8,OK,OK (20),OK (24),OK
+https://www.medscape.com/viewarticle/second-dose-boosts-shingles-protection-adults-aged-65-years-2025a1000ro7,9,OK,OK (25),OK (31),OK
+https://www.theguardian.com/global-development/2025/oct/13/astro-ambassadors-stargazers-himalayas-hanle-ladakh-india,10,OK,OK (25),OK (34),OK
